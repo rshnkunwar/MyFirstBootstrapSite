@@ -1,0 +1,146 @@
+#background {
+	background-color: tomato;
+}
+#headdesign {
+	background-color: orangered;
+	color: white;
+}
+#headingwhite li a {
+	color:white;
+	float: right;
+	line-height: 20px;
+	vertical-align: middle;
+}
+#bgcolor{
+	background-color: #42D27F
+
+}
+
+#mycarousel {
+	interval: 6000;
+
+}
+.secondnddiv {
+	background-color: gray;
+	padding: 10px;
+	color:white;
+}
+.thirddiv{
+	background-color:;
+	color: ;
+}
+.thirddiv h2 {
+	background-color:;
+	color:;
+	width: 100%;
+	
+}
+#colmanage8 h2{
+	background-color:;
+	color: white;
+}
+#colmanage4 li{
+	text-decoration: none;
+	background-color: white;
+	color:black;
+	border-top:1px solid black;
+}
+}
+#homeincol a{
+	text-align: center;
+	vertical-align: middle;
+	line-height: 50px;
+}
+#serviceincol a{
+	text-align: center;
+	vertical-align: middle;
+	line-height: 50px;
+}
+#contactincol a {
+	text-align: center;
+	vertical-align: middle;
+	line-height: 50px;
+}
+#forvideo {
+	background-color:orangered;
+	color:white;
+	font-size: 25px;
+
+}
+#forvideo div span {
+
+}
+#forvideo video{
+	align-items: center;
+	background-color:;
+	width: 100%
+	border:2px solid white;
+}
+
+
+#forfooter a {
+	background-color:none;
+	color: white;
+	float: center;
+	text-decoration: none;
+	padding: 10px;
+}
+
+#Aboutusbody{
+	background-color: coral;
+	padding: 40px;
+}
+#terminatorow {
+	border-top: 1px solid white;
+}
+#Aboutcolor{
+	background-color: tomato;
+}
+#Aboutcolor h2 {
+	padding: 10px;
+}
+#paragraph1{
+	padding: 20px
+}
+#forservices{
+	background-color: coral;
+	padding: 20px;
+
+}
+#paragraph2{
+	padding: 40px;
+
+}
+#serviceimg1 img{
+	width: 80%;
+	padding left: 20%;
+}
+#ContactPart {
+	background-color: tomato;
+}
+#ContactPart h2 {
+	padding: 20px;
+
+
+}
+#con_form_head{
+	padding: 20px;
+}
+#con_form_head h3{
+	color: white;
+	float: right;
+}
+footer{
+	background-color: orangered;
+	padding-top:0px;
+}
+#footerhead ul li  a{
+	text-decoration: none;
+	display: inline;
+	color:white;
+	line-height: 20px;
+	padding-right: 20px;
+}
+/*li a .foot-list {
+	color: white;
+}*/
